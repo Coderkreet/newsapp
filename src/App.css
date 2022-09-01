@@ -27,6 +27,16 @@
 .App-link {
   color: #61dafb;
 }
+body{
+
+background: url(https://images.pexels.com/photos/3866816/pexels-photo-3866816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.nav-item{
+font-weight: 800;
+
+}
 
 @keyframes App-logo-spin {
   from {
